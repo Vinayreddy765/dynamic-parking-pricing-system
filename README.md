@@ -147,10 +147,9 @@ For detailed information about the system:
 
 ## 👥 Authors
 
-**[Your Name]** - Summer Analytics 2025 Participant
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**[Vinay Reddy]** - Summer Analytics 2025 Participant
+- GitHub: [@vinayreddy765](https://github.com/vinayreddy765)
+- Email: vinayreddy7628@gmail.com
 
 ## 📝 License
 
@@ -161,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 - Create an issue on GitHub
 - Email: support@parkingpricing.com
-- Documentation: [Project Wiki](https://github.com/yourusername/dynamic-parking-pricing/wiki)
+- Documentation: [Project Wiki](https://github.com/vinayreddy765/dynamic-parking-pricing/wiki)
 
 ---
 
